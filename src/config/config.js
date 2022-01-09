@@ -1,2 +1,2 @@
-const API_URI = process.env.API_URI ? process.env.API_URI : 'http://localhost:3000';
+const API_URI = process.env.REACT_APP_API_URI;
 export default API_URI;
