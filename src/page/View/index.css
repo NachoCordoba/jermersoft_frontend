@@ -1,0 +1,16 @@
+.view-container{
+    background-image: url('../../assets/image/background.webp');
+    background-size: cover;
+
+    min-height: 100%;
+}
+
+.view-navigation{
+    padding: 25px;
+}
+
+.view-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

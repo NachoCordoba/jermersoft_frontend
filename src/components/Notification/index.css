@@ -1,0 +1,19 @@
+.notification-container{
+    position: fixed;
+
+    bottom: 10px;
+    right: 10px;
+
+    min-width: 200px;
+
+    border: 2px solid #0fb7d4;
+    border-radius: 15px;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px;
+
+    background-color: #fff;
+}

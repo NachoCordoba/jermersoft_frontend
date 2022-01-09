@@ -1,0 +1,10 @@
+.input{
+    padding: 10px;
+    border-radius: 5px;
+
+    font-family: Red Rose;
+    font-style: normal;
+}
+.input:focus-visible{
+    outline: #6fd3f2 solid 1px;
+}

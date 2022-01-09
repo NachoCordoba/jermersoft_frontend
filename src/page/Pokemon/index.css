@@ -1,0 +1,16 @@
+.home-container{
+    background-image: url('../../assets/image/background.webp');
+    background-size: cover;
+
+    min-height: 100%;
+}
+
+.home-nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home-nav-logo{
+    width: 200px;
+}
